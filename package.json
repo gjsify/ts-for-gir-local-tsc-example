@@ -1,6 +1,7 @@
 {
   "name": "ts-for-gir-local-tsc-example",
   "description": "An example of how ts-for-gir can be used locally with self generated GIR types and the TypeScript compiler",
+  "type": "module",
   "scripts": {
     "generate": "ts-for-gir generate Adw-1",
     "build": "tsc",
