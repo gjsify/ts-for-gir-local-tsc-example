@@ -32,3 +32,7 @@ In addition, 3 NPM scripts are included:
 * `build`: This script runs `tsc` to build the TypeScript code.
 * `start`: This script runs `gjs` to start the code with GJS.
 
+## Other examples
+
+* [ts-for-gir-local-esbuild-example](https://github.com/gjsify/ts-for-gir-local-esbuild-example) - Almost identical example, but uses `esbuild` to build the TypeScript code
+
