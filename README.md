@@ -12,7 +12,8 @@ This example shows how [ts-for-gir](https://github.com/gjsify/ts-for-gir) v4 can
 1. Install the dependencies using `npm install`
 2. Run `npm run generate` to generate the TypeScript types
 3. Run `npm run build` to build the TypeScript code
-4. Run `npm run start` to start the code with GJS (alternatively run `gjs -m main.js`)
+4. Rerun `npm install` to register the new types
+5. Run `npm run start` to start the code with GJS (alternatively run `gjs -m main.js`)
 
 ## How it works
 
