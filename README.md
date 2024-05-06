@@ -1,6 +1,8 @@
 # ts-for-gir local tsc example
 
-This example shows how `ts-for-gir` v4 can be used to generate and use the TypeScript types for [GJS](https://gjs.guide/)
+This example shows how [ts-for-gir](https://github.com/gjsify/ts-for-gir) v4 can be used to generate and use TypeScript types for [GJS](https://gjs.guide/).
+
+> Another option is to install the types via NPM, but this example shows how to create the types yourself so that the library version of the created types matches your local ones
 
 ![Hello World GJS Gtk/Adwaita application](https://github.com/gjsify/ts-for-gir-local-tsc-example/assets/1073989/af49b7b8-48e3-4bb2-b051-03a000caf2ca)
 
